@@ -1,0 +1,525 @@
+Google_name,Bloverse_name
+/Science,Science
+/Science/Astronomy,Science
+/Science/Biological Sciences,Science
+/Science/Biological Sciences/Neuroscience,Science
+/Science/Chemistry,Science
+/Science/Computer Science,Science
+/Science/Earth Sciences,Science
+/Science/Earth Sciences/Atmospheric Science,Science
+/Science/Earth Sciences/Geology,Science
+/Science/Ecology & Environment,Science
+/Science/Ecology & Environment/Climate Change & Global Warming,Science
+/Science/Engineering & Technology,Science
+/Science/Engineering & Technology/Robotics,Science
+/Science/Mathematics,Science
+/Science/Mathematics/Statistics,Science
+/Food,Food
+/Business & Industrial/Hospitality Industry/Food Service,Business
+/Pets & Animals/Animal Products & Services/Pet Food & Supplies,Wildlife and Nature
+/Food & Drink,Food
+/Food & Drink/Beverages,Food
+/Food & Drink/Beverages/Alcoholic Beverages,Food
+/Food & Drink/Beverages/Coffee & Tea,Food
+/Food & Drink/Beverages/Juic,Food
+/Food & Drink/Beverages/Soft Drinks,Food
+/Food & Drink/Cooking & Recipes,Food
+/Food & Drink/Cooking & Recipes/BBQ & Grilling,Food
+/Food & Drink/Cooking & Recipes/Desserts,Food
+/Food & Drink/Cooking & Recipes/Soups & Stews,Food
+/Food & Drink/Food & Grocery Retailers,Food
+/Food & Drink/Food/Baked Goods,Food
+/Food & Drink/Food/Breakfast Foods,Food
+/Food & Drink/Food/Candy & Sweets,Food
+/Food & Drink/Food/Grains & Pasta,Food
+/Food & Drink/Food/Meat & Seafood,Food
+/Food & Drink/Food/Snack Foods,Food
+/Food & Drink/Restaurants,Food
+/Food & Drink/Restaurants/Fast Food,Food
+/Food & Drink/Restaurants/Pizzerias,Food
+/Food & Drink/Restaurants/Restaurant Reviews & Reservations,Food
+/Sports,Sports
+/Sports/Animal Sports,Sports
+/Sports/College Sports,Sports
+/Sports/Combat Sports,Sports
+/Sports/Combat Sports/Boxing,Sports
+/Sports/Combat Sports/Martial Arts,Sports
+/Sports/Combat Sports/Wrestling,Sports
+/Sports/Extreme Sports,Sports
+/Sports/Extreme Sports/Drag & Street Racing,Sports
+/Sports/Fantasy Sports,Sports
+/Sports/Individual Sports,Sports
+/Sports/Individual Sports/Cycling,Sports
+/Sports/Individual Sports/Golf,Sports
+/Sports/Individual Sports/Gymnastics,Sports
+/Sports/Individual Sports/Racquet Sports,Sports
+/Sports/Individual Sports/Skate Sports,Sports
+/Sports/Individual Sports/Track & Field,Sports
+/Sports/International Sports Competitions,Sports
+/Sports/International Sports Competitions/Olympics,Sports
+/Sports/Motor Sports,Sports
+/Sports/Sporting Goods,Sports
+/Sports/Sporting Goods/Sports Memorabilia,Sports
+/Sports/Sporting Goods/Winter Sports Equipment,Sports
+/Sports/Sports Coaching & Training,Sports
+/Sports/Team Sports,Sports
+/Sports/Team Sports/American Football,Sports
+/Sports/Team Sports/Australian Football,Sports
+/Sports/Team Sports/Baseball,Sports
+/Sports/Team Sports/Basketball,Sports
+/Sports/Team Sports/Cheerleading,Sports
+/Sports/Team Sports/Cricket,Sports
+/Sports/Team Sports/Hockey,Sports
+/Sports/Team Sports/Rugby,Sports
+/Sports/Team Sports/Soccer,Sports
+/Sports/Team Sports/Volleyball,Sports
+/Sports/Water Sports,Sports
+/Sports/Water Sports/Surfing,Sports
+/Sports/Water Sports/Swimming,Sports
+/Sports/Winter Sports,Sports
+/Sports/Winter Sports/Ice Skating,Sports
+/Sports/Winter Sports/Skiing & Snowboarding,Sports
+/Arts & Entertainment,Entertainment
+/Arts & Entertainment/Celebrities & Entertainment News,Entertainment
+/Arts & Entertainment/Comics & Animation,Entertainment
+/Arts & Entertainment/Comics & Animation/Anime & Manga,Entertainment
+/Arts & Entertainment/Comics & Animation/Cartoon,Entertainment
+/Arts & Entertainment/Comics & Animation/Comics,Entertainment
+/Arts & Entertainment/Entertainment Industry,Entertainment
+/Arts & Entertainment/Entertainment Industry/Film & TV Industry,Entertainment
+/Arts & Entertainment/Entertainment Industry/Recording Industry,Entertainment
+/Arts & Entertainment/Events & Listings,Entertainment
+"/Arts & Entertainment/Events & Listings/Bars, Clubs & Nightlife",Entertainment
+/Arts & Entertainment/Events & Listings/Concerts & Music Festivals,Entertainment
+/Arts & Entertainment/Events & Listings/Expos & Conventions,Entertainment
+/Arts & Entertainment/Events & Listings/Film Festivals,Entertainment
+/Arts & Entertainment/Events & Listings/Movie Listings & Theater Showtimes,Entertainment
+/Arts & Entertainment/Fun & Trivia	/Hobbies & Leisure/Water Activities/Boating,Entertainment
+/Arts & Entertainment/Fun & Trivia/Flash-Based Entertainment,Entertainment
+/Arts & Entertainment/Fun & Trivia/Fun Tests & Silly Surveys,Entertainment
+/Arts & Entertainment/Humor	/Home & Garden/Bed & Bath,Entertainment
+/Arts & Entertainment/Humor/Funny Pictures & Videos,Entertainment
+/Arts & Entertainment/Humor/Political Humor,Entertainment
+/Arts & Entertainment/Movies,Entertainment
+/Arts & Entertainment/Music & Audio,Entertainment
+/Arts & Entertainment/Music & Audio/CD & Audio Shopping,Entertainment
+/Arts & Entertainment/Music & Audio/Classical Music,Entertainment
+/Arts & Entertainment/Music & Audio/Country Music,Entertainment
+/Arts & Entertainment/Music & Audio/Dance & Electronic Music,Entertainment
+/Arts & Entertainment/Music & Audio/Experimental & Industrial Music,Entertainment
+/Arts & Entertainment/Music & Audio/Jazz & Blues,Entertainment
+/Arts & Entertainment/Music & Audio/Music Education & Instruction,Entertainment
+/Arts & Entertainment/Music & Audio/Music Equipment & Technology,Entertainment
+/Arts & Entertainment/Music & Audio/Music Reference,Entertainment
+/Arts & Entertainment/Music & Audio/Music Streams & Downloads,Entertainment
+/Arts & Entertainment/Music & Audio/Music Videos,Entertainment
+/Arts & Entertainment/Music & Audio/Pop Music,Entertainment
+/Arts & Entertainment/Music & Audio/Radio,Entertainment
+/Arts & Entertainment/Music & Audio/Religious Music,Entertainment
+/Arts & Entertainment/Music & Audio/Rock Music,Entertainment
+/Arts & Entertainment/Music & Audio/Soundtracks,Entertainment
+/Arts & Entertainment/Music & Audio/Urban & Hip-Hop,Entertainment
+/Arts & Entertainment/Music & Audio/World Music,Entertainment
+/Arts & Entertainment/Offbeat,Entertainment
+/Arts & Entertainment/Offbeat/Occult & Paranormal,Entertainment
+/Arts & Entertainment/Online Media,Entertainment
+/Arts & Entertainment/Online Media/Online Image Gallerie,Entertainment
+/Arts & Entertainment/Performing Art,Entertainment
+/Arts & Entertainment/Performing Arts/Acting & Theater,Entertainment
+/Arts & Entertainment/Performing Arts/Circus,Entertainment
+/Arts & Entertainment/Performing Arts/Dance,Entertainment
+/Arts & Entertainment/Performing Arts/Magic,Entertainment
+/Arts & Entertainment/Performing Arts/Opera,Entertainment
+/Arts & Entertainment/TV & Video,Entertainment
+/Arts & Entertainment/TV & Video/Online Video,Entertainment
+/Arts & Entertainment/TV & Video/TV Commercials,Entertainment
+/Arts & Entertainment/TV & Video/TV Shows & Programs,Entertainment
+/Arts & Entertainment/Visual Art & Design,Entertainment
+/Arts & Entertainment/Visual Art & Design/Architecture,Entertainment
+/Arts & Entertainment/Visual Art & Design/Art Museums & Galleries,Entertainment
+/Arts & Entertainment/Visual Art & Design/Design,Entertainment
+/Arts & Entertainment/Visual Art & Design/Painting,Entertainment
+/Arts & Entertainment/Visual Art & Design/Photographic & Digital Arts,Entertainment
+/Health,Health
+/Health/Aging & Geriatrics,Health
+/Health/Health Conditions,Health
+/Health/Health Conditions/AIDS & HIV,Health
+/Health/Health Conditions/Allergies,Health
+/Health/Health Conditions/Arthritis,Health
+/Health/Health Conditions/Cancer,Health
+/Health/Health Conditions/Diabetes,Health
+/Health/Health Conditions/Ear Nose & Throat,Health
+/Health/Health Conditions/Eating Disorders,Health
+/Health/Health Conditions/Endocrine Conditions,Health
+/Health/Health Conditions/Genetic Disorders,Health
+/Health/Health Conditions/Heart & Hypertension,Health
+/Health/Health Conditions/Infectious Diseases,Health
+/Health/Health Conditions/Neurological Conditions,Health
+/Health/Health Conditions/Obesity,Health
+/Health/Health Conditions/Pain Management,Health
+/Health/Health Conditions/Respiratory Conditions,Health
+/Health/Health Conditions/Skin Conditions,Health
+/Health/Health Conditions/Sleep Disorders,/Health
+/Health/Health Education & Medical Training,Health
+/Health/Health Foundations & Medical Research,Health
+/Health/Medical Devices & Equipment,Health
+/Health/Medical Facilities & Services,Health
+/Health/Medical Facilities & Services/Doctors' Offices,Health
+/Health/Medical Facilities & Services/Hospitals & Treatment Centers,Health
+/Health/Medical Facilities & Services/Medical Procedures,/Health
+/Health/Medical Facilities & Services/Physical Therapy,Health
+/Health/Men's Health,Health
+/Health/Mental Health,/Health
+/Health/Mental Health/Anxiety & Stress,Health
+/Health/Mental Health/Depression,Health
+/Health/Nursing,Health
+/Health/Nursing/Assisted Living & Long Term Care,Health
+/Health/Nutrition,Health
+/Health/Nutrition/Special & Restricted Diets,Health
+/Health/Nutrition/Vitamins & Supplements,Health
+/Health/Oral & Dental Care,/Health
+/Health/Pharmacy,Health
+/Health/Pharmacy/Drugs & Medications,Health
+/Health/Public Health,/Health
+/Health/Public Health/Occupational Health & Safety,Health
+/Health/Reproductive Health,Health
+/Health/Substance Abuse,Health
+/Health/Substance Abuse/Drug & Alcohol Testing,/Health
+/Health/Substance Abuse/Drug & Alcohol Treatment,Health
+/Health/Substance Abuse/Smoking & Smoking Cessation,Health
+/Health/Substance Abuse/Steroids & Performance-Enhancing Drugs,Health
+/Health/Vision Care,Health
+/Health/Vision Care/Eyeglasses & Contacts,Health
+/Health/Women's Health,Health
+/Games,Gaming
+/Games/Arcade & Coin-Op Games,Gaming
+/Games/Board Games,Gaming
+/Games/Board Games/Chess & Abstract Strategy Games,Gaming
+/Games/Board Games/Miniatures & Wargaming,Gaming
+/Games/Card Games,Gaming
+/Games/Card Games/Collectible Card Games,Gaming
+/Games/Card Games/Poker & Casino Games,Gaming
+/Games/Computer & Video Games,Gaming
+/Games/Computer & Video Games/Casual Games,Gaming
+/Games/Computer & Video Games/Driving & Racing Games,Gaming
+/Games/Computer & Video Games/Fighting Games,Gaming
+/Games/Computer & Video Games/Music & Dance Games,Gaming
+/Games/Computer & Video Games/Sandbox Games,Gaming
+/Games/Computer & Video Games/Shooter Games,Gaming
+/Games/Computer & Video Games/Simulation Games,Gaming
+/Games/Computer & Video Games/Sports Games,Gaming
+/Games/Computer & Video Games/Strategy Games,Gaming
+/Games/Computer & Video Games/Video Game Emulation,Gaming
+/Games/Family-Oriented Games & Activities,/Gaming
+/Games/Family-Oriented Games & Activities/Drawing & Coloring,Gaming
+/Games/Family-Oriented Games & Activities/Dress-Up & Fashion Games,/Gaming
+/Games/Gambling,Gaming
+/Games/Gambling/Lottery,/Gaming
+/Games/Online Games/Massively Multiplayer Games,Gaming
+/Games/Puzzles & Brainteasers,/Gaming
+/Games/Roleplaying Games,/Gaming
+/Games/Table Games,/Gaming
+/Games/Table Games/Billiards,/Gaming
+/Games/Word Games,Gaming
+/travel,Travel
+/Travel/Air Travel,Travel
+/Travel/Air Travel/Airport Parking & Transportation,Travel
+/Travel/Bus & Rail,Travel
+/Travel/Car Rental & Taxi Services,Travel
+/Travel/Cruises & Charters,Travel
+/Travel/Hotels & Accommodations,Travel
+/Travel/Hotels & Accommodations/Vacation Rentals & Short-Term Stays,Travel
+/Travel/Specialty Travel,Travel
+/Travel/Tourist Destinations,Travel
+/Travel/Tourist Destinations/Beaches & Islands,Travel
+/Travel/Tourist Destinations/Mountain & Ski Resorts,Travel
+/Travel/Tourist Destinations/Regional Parks & Gardens,Travel
+/Travel/Tourist Destinations/Theme Parks,Travel
+/Travel/Tourist Destinations/Zoos-Aquariums-Preserves,Travel
+/Law & Government,Law
+/Law & Government/Government,Law
+/Law & Government/Government/Courts & Judiciary,Law
+/Law & Government/Government/Visa & Immigration,Law
+/Law & Government/Legal,Law
+/Law & Government/Legal/Bankruptcy,Law
+/Law & Government/Legal/Legal Education,Law
+/Law & Government/Legal/Legal Services,Law
+/Law & Government/Military,Law
+/Law & Government/Public Safety,Law
+/Law & Government/Public Safety/Crime & Justice,Law
+/Law & Government/Public Safety/Emergency Services,Law
+/Law & Government/Public Safety/Law Enforcement,Law
+/Law & Government/Public Safety/Security Products & Services,Law
+/Law & Government/Social Services,Law
+/Jobs & Education,Education/Career
+/Jobs & Education/Education,Education/Career
+/Jobs & Education/Education/Colleges & Universities,Education/Career
+/Jobs & Education/Education/Distance Learning,Education/Career
+/Jobs & Education/Education/Homeschooling,Education/Career
+/Jobs & Education/Education/Primary & Secondary Schooling (K-12),Education/Career
+/Jobs & Education/Education/Standardized & Admissions Tests,Education/Career
+/Jobs & Education/Education/Teaching & Classroom Resources,Education/Career
+/Jobs & Education/Education/Training & Certification,Education/Career
+/Jobs & Education/Education/Vocational & Continuing Education,Education/Career
+/Jobs & Education/Jobs,Education/Career
+/Jobs & Education/Jobs/Career Resources & Planning,Education/Career
+/Jobs & Education/Jobs/Job Listings,Education/Career
+/Jobs & Education/Jobs/Resumes & Portfolios,Education/Career
+/Business & Industrial,Business
+/Business & Industrial/Advertising & Marketing/Public Relations,Business
+/Business & Industrial/Aerospace & Defense/Space Technology,Business
+/Business & Industrial/Agriculture & Forestry,Business
+/Business & Industrial/Agriculture & Forestry/Agricultural Equipment,Business
+/Business & Industrial/Agriculture & Forestry/Forestry,Business
+/Business & Industrial/Agriculture & Forestry/Livestock,Business
+/Business & Industrial/Automotive Industry,Business
+/Business & Industrial/Business Education,Business
+/Business & Industrial/Business Finance,Business
+/Business & Industrial/Business Finance/Venture Capital,Business
+/Business & Industrial/Business Operations,Business
+/Business & Industrial/Business Operations/Business Plans & Presentations,Business
+/Business & Industrial/Business Operations/Management,Business
+/Business & Industrial/Business Services,Business
+/Business & Industrial/Business Services/Consulting,Business
+/Business & Industrial/Business Services/Corporate Events,Business
+/Business & Industrial/Business Services/E-Commerce Services,Business
+/Business & Industrial/Business Services/Fire & Security Services,Business
+/Business & Industrial/Business Services/Office Services,Business
+/Business & Industrial/Business Services/Office Supplies,Business
+/Business & Industrial/Business Services/Writing & Editing Services,Business
+/Business & Industrial/Chemicals Industry,Business
+/Business & Industrial/Chemicals Industry/Cleaning Agents,Business
+/Business & Industrial/Chemicals Industry/Plastics & Polymers,Business
+/Business & Industrial/Construction & Maintenance,Business
+/Business & Industrial/Construction & Maintenance/Building Materials & Supplies,Business
+/Business & Industrial/Energy & Utilities,Business
+/Business & Industrial/Energy & Utilities/Electricity,Business
+/Business & Industrial/Energy & Utilities/Oil & Gas,Business
+/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy,Business
+/Business & Industrial/Hospitality Industry,Business
+/Business & Industrial/Hospitality Industry/Event Plannings,Business
+/Business & Industrial/Industrial Materials & Equipment,Business
+/Business & Industrial/Industrial Materials & Equipment/Heavy Machinery,Business
+/Business & Industrial/Manufacturing,Business
+/Business & Industrial/Metals & Mining,Business
+/Business & Industrial/Metals & Mining/Precious Metals,Business
+/Business & Industrial/Pharmaceuticals & Biotech,Business
+/Business & Industrial/Printing & Publishing,Business
+/Business & Industrial/Retail Trade	/Pets & Animals/Pets/Horses,Business
+/Business & Industrial/Retail Trade/Retail Equipment & Technology,Business
+/Business & Industrial/Small Business/MLM & Business Opportunities,Business
+/Business & Industrial/Textiles & Nonwovens	/Pets & Animals/Wildlife,Business
+/Business & Industrial/Transportation & Logistics,Business
+/Business & Industrial/Transportation & Logistics/Freight & Trucking,Business
+/Business & Industrial/Transportation & Logistics/Mail & Package Delivery,Business
+/Business & Industrial/Transportation & Logistics/Maritime Transport,Business
+/Business & Industrial/Transportation & Logistics/Moving & Relocation,Business
+/Business & Industrial/Transportation & Logistics/Packaging,Business
+/Business & Industrial/Transportation & Logistics/Parking,Business
+/Business & Industrial/Transportation & Logistics/Rail Transport,Business
+/Business & Industrial/Transportation & Logistics/Urban Transport,Business
+/Pets & Animals,Wildlife and Nature
+/Pets & Animals/Animal Products & Services/Veterinarians,Wildlife and Nature
+/Pets & Animals/Pets,Wildlife and Nature
+/Pets & Animals/Pets/Birds,Wildlife and Nature
+/Pets & Animals/Pets/Cats,Wildlife and Nature
+/Pets & Animals/Pets/Dogs,Wildlife and Nature
+/Pets & Animals/Pets/Exotic Pets,Wildlife and Nature
+/Pets & Animals/Pets/Fish & Aquaria,Wildlife and Nature
+/Pets & Animals/Pets/Horses,Wildlife and Nature
+/Pets & Animals/Pets/Rabbits & Rodents,Wildlife and Nature
+/Pets & Animals/Pets/Reptiles & Amphibians,Wildlife and Nature
+/Beauty & Fitness,Fashion
+/Beauty & Fitness/Beauty Pageants,Fashion
+/Beauty & Fitness/Body Art,Fashion
+/Beauty & Fitness/Cosmetic Procedures,Fashion
+/Beauty & Fitness/Cosmetic Procedures/Cosmetic Surgery,Fashion
+/Beauty & Fitness/Cosmetology & Beauty Professionals,Fashion
+/Beauty & Fitness/Face & Body Care	/Law & Government/Military,Fashion
+/Beauty & Fitness/Face & Body Care/Hygiene & Toiletries,Fashion
+/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics,Fashion
+/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances,Fashion
+/Beauty & Fitness/Face & Body Care/Skin & Nail Care,Fashion
+/Beauty & Fitness/Face & Body Care/Unwanted Body & Facial Hair Removal,Fashion
+/Beauty & Fitness/Fashion & Style,Fashion
+/People & Society/Family & Relationships,Relationships
+/People & Society/Family & Relationships/Family,Relationships
+/People & Society/Family & Relationships/Marriage,Relationships
+/People & Society/Family & Relationships/Troubled Relationships,Relationships
+/Home & Garden,Others
+/Home & Garden/Bed & Bath,Others
+/Home & Garden/Bed & Bath/Bathroom,Others
+/Home & Garden/Domestic Services,Others
+/Home & Garden/Domestic Services/Cleaning Services,Others
+/Home & Garden/Gardening & Landscaping,Others
+/Home & Garden/Home & Interior Decor,Others
+/Home & Garden/Home Appliances,Others
+/Home & Garden/Home Furnishings,Others
+/Home & Garden/Home Furnishings/Curtains & Window Treatments,Others
+/Home & Garden/Home Furnishings/Kitchen & Dining Furniture,Others
+/Home & Garden/Home Furnishings/Lamps & Lighting,Others
+/Home & Garden/Home Furnishings/Living Room Furniture,Others
+/Home & Garden/Home Furnishings/Rugs & Carpets,Others
+/Home & Garden/Home Improvement,Others
+/Home & Garden/Home Improvement/Construction & Power Tools,Others
+/Home & Garden/Home Improvement/Doors & Windows,Others
+/Home & Garden/Home Improvement/Flooring,Others
+/Home & Garden/Home Improvement/House Painting & Finishing,Others
+/Home & Garden/Home Improvement/Plumbing,Others
+/Home & Garden/Home Safety & Security,Others
+/Home & Garden/Home Storage & Shelving,Others
+"/Home & Garden/Home Swimming Pools, Saunas & Spas",Others
+/Home & Garden/HVAC & Climate Control,Others
+/Home & Garden/HVAC & Climate Control/Fireplaces & Stoves,Others
+/Home & Garden/Kitchen & Dining,Others
+/Real Estate,Others
+/Real Estate/Real Estate Listings,Others
+/Real Estate/Real Estate Listings/Bank-Owned & Foreclosed Properties,Others
+/Real Estate/Real Estate Listings/Commercial Properties,Others
+/Real Estate/Real Estate Listings/Lots & Land,Others
+/Real Estate/Real Estate Listings/Residential Rentals,Others
+/Real Estate/Real Estate Listings/Residential Sales,Others
+/Real Estate/Real Estate Listings/Timeshares & Vacation Properties,Others
+/Real Estate/Real Estate Services,Others
+/Reference,Random
+/Reference/Directories & Listings,Random
+/Reference/Directories & Listings/Business & Personal Listings,Random
+/Reference/General Reference,Random
+/Reference/General Reference/Biographies & Quotations,Random
+/Reference/General Reference/Calculators & Reference Tools,Random
+/Reference/General Reference/Dictionaries & Encyclopedias,Random
+/Reference/General Reference/Forms Guides & Templates,Random
+/Reference/General Reference/Public Records,Random
+/Reference/General Reference/Time & Calendars,Random
+/Reference/Geographic Reference,Random
+/Reference/Geographic Reference/Maps,Random
+/Reference/Humanities,Random
+/Reference/Humanities/History,Random
+/Reference/Humanities/Myth & Folklore,Random
+/Reference/Humanities/Philosophy,Random
+/Reference/Language Resources,Random
+/Reference/Language Resources/Foreign Language Resources,Random
+/Reference/Libraries & Museums,Random
+/Reference/Libraries & Museums/Museums,Random
+/Internet & Telecom,Technology
+/Internet & Telecom/Communications Equipment,Technology
+/Internet & Telecom/Communications Equipment/Radio Equipment,Technology
+/Internet & Telecom/Email & Messaging,Technology
+/Internet & Telecom/Email & Messaging/Text & Instant Messaging,Technology
+/Internet & Telecom/Email & Messaging/Voice & Video Chat,Technology
+/Internet & Telecom/Mobile & Wireless,Technology
+/Internet & Telecom/Mobile & Wireless/Mobile & Wireless Accessories,Technology
+/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,Technology
+/Internet & Telecom/Mobile & Wireless/Mobile Phones,Technology
+/Internet & Telecom/Service Providers,Technology
+/Internet & Telecom/Service Providers/Cable & Satellite Providers,Technology
+/Internet & Telecom/Web Services,Technology
+/Internet & Telecom/Web Services/Affiliate Programs,Technology
+/Internet & Telecom/Web Services/Web Design & Development,Technology
+/Autos & Vehicles,Others
+/Autos & Vehicles/Bicycles & Accessories,Others
+/Autos & Vehicles/Bicycles & Accessories/Bike Parts & Repair,Others
+/Autos & Vehicles/Bicycles & Accessories/BMX Bikes,Others
+/Autos & Vehicles/Boats & Watercraft,Others
+/Autos & Vehicles/Campers & RVs,Others
+/Autos & Vehicles/Classic Vehicles,Others
+/Autos & Vehicles/Commercial Vehicles/Cargo Trucks & Trailers,Others
+/Autos & Vehicles/Motor Vehicles (By Type),Others
+/Autos & Vehicles/Motor Vehicles (By Type)/Hybrid & Alternative Vehicles,Others
+/Autos & Vehicles/Motor Vehicles (By Type)/Motorcycles,Others
+/Autos & Vehicles/Motor Vehicles (By Type)/Off-Road Vehicles,Others
+/Autos & Vehicles/Motor Vehicles (By Type)/Trucks & SUVs,Others
+/Autos & Vehicles/Vehicle Codes & Driving Law,Others
+/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle Licensing & Registration,Others
+/Autos & Vehicles/Vehicle Parts & Services,Others
+/Autos & Vehicles/Vehicle Parts & Services/Gas Prices & Vehicle Fueling,Others
+/Autos & Vehicles/Vehicle Parts & Services/Vehicle Parts & Accessorie,Others
+/Autos & Vehicles/Vehicle Parts & Services/Vehicle Repair & Maintenance,Others
+/Autos & Vehicles/Vehicle Shopping,Others
+/Autos & Vehicles/Vehicle Shopping/Used Vehicles,Others
+/Autos & Vehicles/Vehicle Shows,Others
+/Books & Literature,Others
+/Books & Literature/Children's Literature,Others
+/Books & Literature/E-Books,Others
+/Books & Literature/Fan Fiction,Others
+/Books & Literature/Literary Classics,Others
+/Books & Literature/Poetry,Others
+/Books & Literature/Writers Resources,Others
+/News,Others
+/News/Business News,Others
+/News/Business News/Company News,Others
+/News/Business News/Financial Markets News,Others
+/News/Gossip & Tabloid News/Scandals & Investigations,Others
+/News/Health News,Others
+/News/Sports News,Others
+/News/Weather,Others
+/Online Communities,Others
+/Online Communities/Blogging Resources & Services,Others
+/Online Communities/Dating & Personals,Others
+/Online Communities/Dating & Personals/Matrimonial Services,Others
+/Online Communities/Dating & Personals/Personals,Others
+/Online Communities/Dating & Personals/Photo Rating Sites,Others
+/Online Communities/File Sharing & Hosting,Others
+/Online Communities/Online Goodies,Others
+/Online Communities/Online Goodies/Clip Art & Animated GIFs,Others
+"/Online Communities/Online Goodies/Skins, Themes & Wallpapers",Others
+/Online Communities/Online Goodies/Social Network Apps & Add-Ons,Others
+/Online Communities/Photo & Video Sharing,Others
+/Online Communities/Photo & Video Sharing/Photo & Image Sharing,Others
+/Online Communities/Social Networks,Others
+/Online Communities/Virtual Worlds,Others
+/People & Society,Others
+/People & Society/Kids & Teens,Others
+/People & Society/Kids & Teens/Children's Interests,Others
+/People & Society/Kids & Teens/Teen Interests,Others
+/People & Society/Religion & Belief,Others
+/People & Society/Seniors & Retirement,Others
+/People & Society/Social Issues & Advocacy,Others
+/People & Society/Social Issues & Advocacy/Charity & Philanthropy,Others
+/People & Society/Social Issues & Advocacy/Discrimination & Identity Relations,Others
+/People & Society/Social Issues & Advocacy/Green Living & Environmental Issues,Others
+/People & Society/Social Issues & Advocacy/Human Rights & Liberties,Others
+/People & Society/Social Issues & Advocacy/Poverty & Hunger,Others
+/People & Society/Social Issues & Advocacy/Work & Labor Issues,Others
+/People & Society/Social Sciences,Others
+/People & Society/Social Sciences/Economics,Others
+/People & Society/Social Sciences/Political Science,Others
+/People & Society/Social Sciences/Psychology,Others
+/People & Society/Subcultures & Niche Interests,Others
+/News/Politics,Ploitics
+/Computers & Electronics,Technology
+/Computers & Electronics/CAD & CAM,Technology
+/Computers & Electronics/Computer Hardware,Technology
+/Computers & Electronics/Computer Hardware/Computer Components,Technology
+/Computers & Electronics/Computer Hardware/Computer Drives & Storage,Technology
+/Computers & Electronics/Computer Hardware/Computer Peripherals,Technology
+/Computers & Electronics/Computer Hardware/Desktop Computers,Technology
+/Computers & Electronics/Computer Hardware/Laptops & Notebooks,Technology
+/Computers & Electronics/Computer Security,Technology
+/Computers & Electronics/Computer Security/Hacking & Cracking,Technology
+/Computers & Electronics/Consumer Electronics,Technology
+/Computers & Electronics/Consumer Electronics/Audio Equipment,Technology
+/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment,Technology
+/Computers & Electronics/Consumer Electronics/Car Electronics,Technology
+/Computers & Electronics/Consumer Electronics/Drones & RC Aircraft,Technology
+/Computers & Electronics/Consumer Electronics/Game Systems & Consoles,Technology
+/Computers & Electronics/Consumer Electronics/GPS & Navigation,Technology
+/Computers & Electronics/Consumer Electronics/TV & Video Equipment,Technology
+/Computers & Electronics/Electronics & Electrical,Technology
+/Computers & Electronics/Electronics & Electrical/Electronic Components,Technology
+/Computers & Electronics/Electronics & Electrical/Power Supplies,Technology
+/Computers & Electronics/Enterprise Technology,Technology
+/Computers & Electronics/Enterprise Technology/Data Management,Technology
+/Computers & Electronics/Networking,Technology
+/Computers & Electronics/Networking/Data Formats & Protocols,Technology
+/Computers & Electronics/Networking/Network Monitoring & Management,Technology
+/Computers & Electronics/Networking/VPN & Remote Access,Technology
+/Computers & Electronics/Programming,Technology
+/Computers & Electronics/Programming/Java (Programming Language),Technology
+/Computers & Electronics/Software,Technology
+/Computers & Electronics/Software/Business & Productivity Software,Technology
+/Computers & Electronics/Software/Device Drivers,Technology
+/Computers & Electronics/Software/Internet Software,Technology
+/Computers & Electronics/Software/Multimedia Software,Technology
+/Computers & Electronics/Software/Operating Systems,Technology
+/Computers & Electronics/Software/Software Utilities,Technology
