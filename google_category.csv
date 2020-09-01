@@ -97,7 +97,7 @@ Google_name,Bloverse_name
 /Arts & Entertainment/Fun & Trivia	/Hobbies & Leisure/Water Activities/Boating,Entertainment
 /Arts & Entertainment/Fun & Trivia/Flash-Based Entertainment,Entertainment
 /Arts & Entertainment/Fun & Trivia/Fun Tests & Silly Surveys,Entertainment
-/Arts & Entertainment/Humor	/Home & Garden/Bed & Bath,Entertainment
+/Arts & Entertainment/Humor,Entertainment
 /Arts & Entertainment/Humor/Funny Pictures & Videos,Entertainment
 /Arts & Entertainment/Humor/Political Humor,Entertainment
 /Arts & Entertainment/Movies,Entertainment
@@ -318,6 +318,25 @@ Google_name,Bloverse_name
 /Business & Industrial/Transportation & Logistics/Parking,Business
 /Business & Industrial/Transportation & Logistics/Rail Transport,Business
 /Business & Industrial/Transportation & Logistics/Urban Transport,Business
+/Finance,Business
+/Finance/Accounting & Auditing,Business
+/Finance/Accounting & Auditing/Billing & Invoicing,Business
+/Finance/Accounting & Auditing/Tax Preparation & Planning,Business
+/Finance/Banking,Business
+/Finance/Credit & Lending,Business
+/Finance/Credit & Lending/Credit Cards,Business
+/Finance/Credit & Lending/Credit Reporting & Monitoring,Business
+/Finance/Credit & Lending/Loans,Business
+/Finance/Financial Planning & Management,Business
+/Finance/Financial Planning & Management/Retirement & Pension,Business
+"/Finance/Grants, Scholarships & Financial Aid",Business
+"/Finance/Grants, Scholarships & Financial Aid/Study Grants & Scholarships",Business
+/Finance/Insurance,Business
+/Finance/Insurance/Health Insurance,Business
+/Finance/Investing,Business
+/Finance/Investing/Commodities & Futures Trading,Business
+/Finance/Investing/Currencies & Foreign Exchange,Business
+/Finance/Investing/Stocks & Bonds,Business
 /Pets & Animals,Wildlife and Nature
 /Pets & Animals/Animal Products & Services/Veterinarians,Wildlife and Nature
 /Pets & Animals/Pets,Wildlife and Nature
@@ -342,6 +361,12 @@ Google_name,Bloverse_name
 /Beauty & Fitness/Face & Body Care/Skin & Nail Care,Fashion
 /Beauty & Fitness/Face & Body Care/Unwanted Body & Facial Hair Removal,Fashion
 /Beauty & Fitness/Fashion & Style,Fashion
+/Beauty & Fitness/Fitness,Fashion
+/Beauty & Fitness/Hair Care,Fashion
+/Beauty & Fitness/Hair Care/Hair Loss,Fashion
+/Beauty & Fitness/Spas & Beauty Services,Fashion
+/Beauty & Fitness/Spas & Beauty Services/Massage Therapy,Fashion
+/Beauty & Fitness/Weight Loss,Fashion
 /People & Society/Family & Relationships,Relationships
 /People & Society/Family & Relationships/Family,Relationships
 /People & Society/Family & Relationships/Marriage,Relationships
@@ -372,6 +397,7 @@ Google_name,Bloverse_name
 /Home & Garden/HVAC & Climate Control,Others
 /Home & Garden/HVAC & Climate Control/Fireplaces & Stoves,Others
 /Home & Garden/Kitchen & Dining,Others
+/Home & Garden/Kitchen & Dining/Small Kitchen Appliances,Others
 /Real Estate,Others
 /Real Estate/Real Estate Listings,Others
 /Real Estate/Real Estate Listings/Bank-Owned & Foreclosed Properties,Others
@@ -445,6 +471,44 @@ Google_name,Bloverse_name
 /Books & Literature/Literary Classics,Others
 /Books & Literature/Poetry,Others
 /Books & Literature/Writers Resources,Others
+/Shopping,Business
+/Shopping/Antiques & Collectibles,Business
+/Shopping/Apparel,Business
+/Shopping/Apparel/Athletic Apparel,Business
+/Shopping/Apparel/Casual Apparel,Business
+/Shopping/Apparel/Children's Clothing,Business
+/Shopping/Apparel/Clothing Accessories,Business
+/Shopping/Apparel/Costumes,Business
+/Shopping/Apparel/Eyewear,Business
+/Shopping/Apparel/Footwear,Business
+/Shopping/Apparel/Formal Wear,Business
+/Shopping/Apparel/Headwear,Business
+/Shopping/Apparel/Men's Clothing,Business
+/Shopping/Apparel/Swimwear,Business
+/Shopping/Apparel/Undergarments,Business
+/Shopping/Apparel/Women's Clothing,Business
+/Shopping/Auctions,Business
+/Shopping/Classifieds,Business
+/Shopping/Consumer Resources,Business
+/Shopping/Consumer Resources/Consumer Advocacy & Protection,Business
+/Shopping/Consumer Resources/Coupons & Discount Offers,Business
+/Shopping/Consumer Resources/Product Reviews & Price Comparisons,Business
+/Shopping/Entertainment Media,Business
+/Shopping/Entertainment Media/Entertainment Media Rentals,Business
+/Shopping/Gifts & Special Event Items,Business
+/Shopping/Gifts & Special Event Items/Cards & Greetings,Business
+/Shopping/Gifts & Special Event Items/Flowers,Business
+/Shopping/Gifts & Special Event Items/Gifts,Business
+/Shopping/Luxury Goods,Business
+/Shopping/Mass Merchants & Department Stores,Business
+/Shopping/Photo & Video Services,Business
+/Shopping/Tobacco Products,Business
+/Shopping/Toys,Business
+/Shopping/Toys/Building Toys,Business
+/Shopping/Toys/Die-cast & Toy Vehicles,Business
+/Shopping/Toys/Dolls & Accessories,Business
+/Shopping/Toys/Ride-On Toys & Wagons,Business
+/Shopping/Toys/Stuffed Toys,Business
 /News,Others
 /News/Business News,Others
 /News/Business News/Company News,Others
@@ -453,6 +517,25 @@ Google_name,Bloverse_name
 /News/Health News,Others
 /News/Sports News,Others
 /News/Weather,Others
+/Hobbies & Leisure,Others
+/Hobbies & Leisure/Clubs & Organizations,Others
+/Hobbies & Leisure/Clubs & Organizations/Youth Organizations & Resources,Others
+/Hobbies & Leisure/Crafts,Others
+/Hobbies & Leisure/Crafts/Fiber & Textile Arts,Others
+/Hobbies & Leisure/Merit Prizes & Contests,Others
+/Hobbies & Leisure/Outdoors,Others
+/Hobbies & Leisure/Outdoors/Fishing,Others
+/Hobbies & Leisure/Outdoors/Hiking & Camping,Others
+/Hobbies & Leisure/Paintball,Others
+/Hobbies & Leisure/Radio Control & Modeling,Others
+/Hobbies & Leisure/Radio Control & Modeling/Model Trains & Railroads,Others
+/Hobbies & Leisure/Special Occasions,Others
+/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events,Others
+/Hobbies & Leisure/Special Occasions/Weddings,Others
+/Hobbies & Leisure/Water Activities,Others
+/Hobbies & Leisure/Water Activities/Boating,Others
+/Hobbies & Leisure/Water Activities/Surf & Swim,Others
+/Sensitive Subjects,Random
 /Online Communities,Others
 /Online Communities/Blogging Resources & Services,Others
 /Online Communities/Dating & Personals,Others
